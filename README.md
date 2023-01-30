@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rabia78665
 - 👀 I’m interested in Web Technologies and Software Development Methods
 - 🌱 I’m currently working on PHP and JS frameworks
-- 💞️ I’m looking to collaborate on interesting stuff
+- 💞️ I’m looking to collaborate on interesting stuff in PHP/Laravel
 - 📫 How to reach me: email me on rabiataj.rt@gmail.com
 
 <!---
