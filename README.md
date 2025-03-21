@@ -27,23 +27,18 @@ I'm a **Senior Software Engineer** with a strong background in **Laravel, PHP, P
 
 ### 📊 GitHub Stats  
 
-**🔹 Contributions across all repositories (including PRs & Issues):**  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rabia&theme=radical)  
+#### **🔹 Total Contributions (Across All Repos, PRs, Issues & Code)**
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rabia&theme=react-dark)](https://github.com/Rabia)
 
-**🔹 Detailed Contribution Stats:**  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rabia&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
+#### **🔹 Overall Stats (Private Contributions Enabled)**
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rabia&show_icons=true&count_private=true&theme=radical)](https://github.com/Rabia)
 
-**🔹 Contribution Streak:**  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rabia&theme=radical" alt="GitHub Streak">
-</p>
+#### **🔹 Contribution Streak**
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rabia&theme=radical)](https://github.com/Rabia)
 
-**🔹 Most Used Languages (Across All Repositories):**  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabia&layout=compact&theme=radical&count_private=true" alt="Top Languages">
-</p>
+#### **🔹 Most Used Languages**
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rabia&layout=compact&theme=radical&count_private=true)](https://github.com/Rabia)
+
 
 ---
 
