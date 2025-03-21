@@ -28,16 +28,16 @@ I'm a **Senior Software Engineer** with a strong background in **Laravel, PHP, P
 ### 📊 GitHub Stats  
 
 #### **🔹 Total Contributions (Across All Repos, PRs, Issues & Code)**
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rabia&theme=react-dark)](https://github.com/Rabia)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rabia78665&theme=react-dark)](https://github.com/Rabia78665)
 
 #### **🔹 Overall Stats (Private Contributions Enabled)**
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rabia&show_icons=true&count_private=true&theme=radical)](https://github.com/Rabia)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rabia78665&show_icons=true&count_private=true&theme=radical)](https://github.com/Rabia78665)
 
 #### **🔹 Contribution Streak**
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rabia&theme=radical)](https://github.com/Rabia)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rabia78665&theme=radical)](https://github.com/Rabia78665)
 
 #### **🔹 Most Used Languages**
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rabia&layout=compact&theme=radical&count_private=true)](https://github.com/Rabia)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rabia78665&layout=compact&theme=radical&count_private=true)](https://github.com/Rabia78665)
 
 
 ---
